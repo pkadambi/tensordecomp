@@ -5,3 +5,7 @@ tmp/
 *tmp*/
 *.pth
 
+.ipynb_checkpoints/
+cache/
+__pycache__
+*tmp*
